@@ -4,7 +4,7 @@ My first basic web service built using Node, Express. It is a template for creat
 (Note: all sensitive information pertaining to WSD services such as endpoints, tokens, client secrets had been hidden for security reasons)
 
 ## Installation
-	-git clone https://github.com/swfl20/stephenlau_456-hotmail.com.git
+	-git clone https://github.com/swfl20/WSD-api.git
 	-cd WSD api
 	-npm install
 
